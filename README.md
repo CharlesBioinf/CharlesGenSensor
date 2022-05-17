@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CharlesGenSensor
+- 👀 I’m interested in computational biology
+- 🌱 I’m currently learning business strategy
+- 💞️ I’m looking to collaborate on long read sequencing and transcriptomic analyses
+- 📫 How to reach me ? definitely by email
